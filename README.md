@@ -1,6 +1,6 @@
 # [Paypal_demo]([https://developer.paypal.com/docs/business/](https://developer.paypal.com/docs/business/))
 
-Testing the use of the [Paypal (Orders) API v2]([https://developer.paypal.com/docs/api/orders/v2/](https://developer.paypal.com/docs/api/orders/v2/)) to make a simple transaction. I found multiple ways to use the API. 
+Testing the use of the [Paypal (Orders) API v2](https://developer.paypal.com/docs/api/orders/v2/](https://developer.paypal.com/docs/api/orders/v2/) to make a simple transaction. I found multiple ways to use the API. 
 
 **index.html** adds a JS script to render the Paypal pay buttons on the webpage and configure the price. This creates a new browser window of Paypal's login to pay (or checkout as a guest). 
 
